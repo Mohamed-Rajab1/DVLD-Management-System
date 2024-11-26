@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\DVLDDataAccessLayer\bin\Debug\DVLDDataAccessLayer.exe.config
+C:\Users\HP\source\repos\DVLDDataAccessLayer\bin\Debug\DVLDDataAccessLayer.exe
+C:\Users\HP\source\repos\DVLDDataAccessLayer\bin\Debug\DVLDDataAccessLayer.pdb
+C:\Users\HP\source\repos\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.exe
+C:\Users\HP\source\repos\DVLDDataAccessLayer\obj\Debug\DVLDDataAccessLayer.pdb

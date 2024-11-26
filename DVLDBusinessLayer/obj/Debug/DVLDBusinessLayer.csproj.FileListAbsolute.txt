@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\DVLDBusinessLayer\bin\Debug\DVLDBusinessLayer.exe.config
+C:\Users\HP\source\repos\DVLDBusinessLayer\bin\Debug\DVLDBusinessLayer.exe
+C:\Users\HP\source\repos\DVLDBusinessLayer\bin\Debug\DVLDBusinessLayer.pdb
+C:\Users\HP\source\repos\DVLDBusinessLayer\bin\Debug\DVLDDataAccessLayer.exe
+C:\Users\HP\source\repos\DVLDBusinessLayer\bin\Debug\DVLDDataAccessLayer.pdb
+C:\Users\HP\source\repos\DVLDBusinessLayer\bin\Debug\DVLDDataAccessLayer.exe.config
+C:\Users\HP\source\repos\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.csproj.CopyComplete
+C:\Users\HP\source\repos\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.exe
+C:\Users\HP\source\repos\DVLDBusinessLayer\obj\Debug\DVLDBusinessLayer.pdb
